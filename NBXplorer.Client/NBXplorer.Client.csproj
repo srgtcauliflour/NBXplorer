@@ -8,9 +8,9 @@
 		<Description>Client API for the minimalist HD Wallet Tracker NBXplorer</Description>
 		<PackageIconUrl>https://aois.blob.core.windows.net/public/Bitcoin.png</PackageIconUrl>
 		<PackageTags>bitcoin</PackageTags>
-		<PackageProjectUrl>https://github.com/dgarage/NBXplorer/</PackageProjectUrl>
-		<PackageLicenseUrl>https://github.com/dgarage/NBXplorer/blob/master/LICENSE</PackageLicenseUrl>
-		<RepositoryUrl>https://github.com/dgarage/NBXplorer/</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/srgtcauliflour/NBXplorer/</PackageProjectUrl>
+		<PackageLicenseUrl>https://github.com/srgtcauliflour/NBXplorer/blob/master/LICENSE</PackageLicenseUrl>
+		<RepositoryUrl>https://github.com/srgtcauliflour/NBXplorer/</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 	</PropertyGroup>
 

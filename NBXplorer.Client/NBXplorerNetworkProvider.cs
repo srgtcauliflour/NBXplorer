@@ -9,6 +9,7 @@ namespace NBXplorer
 		public NBXplorerNetworkProvider(ChainType chainType)
 		{
 			InitBitcoin(chainType);
+			InitStrayacoin(chainType);
 			InitLitecoin(chainType);
 			InitDogecoin(chainType);
 			InitBCash(chainType);
